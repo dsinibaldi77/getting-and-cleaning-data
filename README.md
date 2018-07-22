@@ -6,3 +6,5 @@ Before being executed, it is necessary to customize the variable pathwd, as indi
 The code explain step-by-step the transformations executed to clean up the initial data.
 
 CodeBook.md contains the data dictionary for the final data frame HAR required.
+
+features_info.md explain the technical column of HAR data frame listed in CodeBook.md
